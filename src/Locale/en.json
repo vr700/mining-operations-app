@@ -1,0 +1,40 @@
+{
+  "app": {
+    "title": "Mining Operations",
+    "header": {
+      "home": "Home",
+      "operations": "Operations"
+    },
+    "operations": {
+      "title": "Operations List",
+      "create": "Create Operation",
+      "form": {
+        "title": "Title",
+        "type": "Type",
+        "date": "Date",
+        "submit": "Submit",
+        "types": {
+          "extraction": "Extraction",
+          "transport": "Transport",
+          "processing": "Processing",
+          "maintenance": "Maintenance"
+        }
+      },
+      "table": {
+        "title": "Title",
+        "type": "Type",
+        "date": "Date",
+        "actions": "Actions",
+        "delete": "Delete"
+      },
+      "validation": {
+        "required": "This field is required",
+        "invalidDate": "Please select a valid date"
+      },
+      "messages": {
+        "success": "Operation created successfully!",
+        "error": "An error occurred while creating the operation"
+      }
+    }
+  }
+}

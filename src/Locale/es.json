@@ -1,0 +1,40 @@
+{
+  "app": {
+    "title": "Operaciones Mineras",
+    "header": {
+      "home": "Inicio",
+      "operations": "Operaciones"
+    },
+    "operations": {
+      "title": "Lista de Operaciones",
+      "create": "Crear Operación",
+      "form": {
+        "title": "Título",
+        "type": "Tipo",
+        "date": "Fecha",
+        "submit": "Enviar",
+        "types": {
+          "extraction": "Extracción",
+          "transport": "Transporte",
+          "processing": "Procesamiento",
+          "maintenance": "Mantenimiento"
+        }
+      },
+      "table": {
+        "title": "Título",
+        "type": "Tipo",
+        "date": "Fecha",
+        "actions": "Acciones",
+        "delete": "Eliminar"
+      },
+      "validation": {
+        "required": "Este campo es requerido",
+        "invalidDate": "Por favor seleccione una fecha válida"
+      },
+      "messages": {
+        "success": "¡Operación creada con éxito!",
+        "error": "Ocurrió un error al crear la operación"
+      }
+    }
+  }
+}
